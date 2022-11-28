@@ -21,12 +21,17 @@ Simple application are developed on C# with
 </p>
 </div>
 
+## How to run
+* Clone this reposirories: https://github.com/TieuDiem/Labeling-Training-Application.git
+* Double click ecutable file
+
 ## UI Component 
 Component of UI
 * TitleBar inclued minimizer,maximizer,close app button.
 * Tabitem inclued button (label mode,label tool, image tool).
 * Main UI inclued image view, class information view, file informationv view.
 * UI Component inside app.
+* 
 <div align="center">
 <p>
 <img src="img/results/UI-Component.png" width="400"/> 
