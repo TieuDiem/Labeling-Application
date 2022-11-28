@@ -11,7 +11,7 @@ Simple application are developed on C# with
 * Design Pattern here: [Refactoring guru design-patterns](https://refactoring.guru/design-patterns)&nbsp;
 <div align="center">
 <p>
-<img src="img/mvvm_pattern.png" width="400"/> 
+<img src="img/mvvm_pattern_1.png" width="400"/> 
 </p>
 </div>
 * This's struct inside.
