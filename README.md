@@ -49,6 +49,6 @@ Hotkeys
 +--------------------+--------------------------------------------+
 | M                  | New Rectangle                              |
 +--------------------+--------------------------------------------+
-
+~~~~~~~
 ## Comments
 Any comments please email to devapplication020301@gmail.com. Thanks fo reading my repositories
