@@ -17,7 +17,8 @@ Simple application are developed on C# with
 * This's struct inside.
 <div align="center">
 <p>
-<img src="img/struct.png" width="400"/> 
+<img src="img/struct.png" width="400" height="auto"/> 
+<img src="img/struct_2.png" width="400" height="auto"/> 
 </p>
 </div>
 
