@@ -7,6 +7,8 @@ Desktop application labeling image dev C# vs WPF (remake based on labelImg tool)
 Simple application are developed on C# with
 * Code organization and arrangement based on MVVM architecture.
 * Design UI based on AvalonDock for View, dragablz for tab button.
+* UI Thems using materialDesign 
+* Interaction using Interactivity WPF
 * MVVM architecture here: [MVVM Pattern]()&nbsp;
 * Design Pattern here: [Refactoring guru design-patterns](https://refactoring.guru/design-patterns)&nbsp;
 <div align="center">
